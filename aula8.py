@@ -1,7 +1,6 @@
 #Calculadora simples
 
 primeiro_numero = input ("Digite um número ")
-#print("Primeiro número: ", primeiro_numero.isnumeric())
 while not primeiro_numero.isnumeric() :
     print("Você não digitou um número válido!")
     primeiro_numero = input ("Digite um número ")
