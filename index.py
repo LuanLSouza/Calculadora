@@ -8,7 +8,7 @@ while not primeiro_numero.isnumeric() :
 
 operadores_validos = ["+", "-", "*", "/"] 
 
-operador = input ("Digite um operador aritmético: ")
+operadores = input ("Digite um operador aritmético: ")
 
 while not operador in operadores_validos :
     print("Você não digitou um operador aritmético válido!")
