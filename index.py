@@ -1,4 +1,5 @@
 #Calculadora simples
+#EU AMO MINHA NAMORADA
 
 primeiro_numero = input ("Digite um número: ")
 
